@@ -8,3 +8,11 @@ QUALITATIVE
 2.
 3.
 
+WHY:
+HOW:
+WHAT:
+
+PATH:
+I am going to focus on the employee path.
+
+ELEVATOR PITCH:  Hi my name is Will.  I work on browsers/security software that help protect people's online presence/privacy.  I'm learning web development to develop the skills to achieve this goal.  Are you worried about online privacy?
