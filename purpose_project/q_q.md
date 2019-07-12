@@ -5,8 +5,8 @@
 
 #### QUALITATIVE
 1.	Loyal: I stand by those close to me.  This is a strength because I form close relationships to those I care about.  This is a weakness because it can lead to me staying with a person (or company!) for longer than is good for me.
-2.
-3.
+2.	Hard working: Once I decide to do something, there is very little that can prevent me from following through.  This is a strength because I can get things done.  This can be a weakness because if I am on the wrong path, I can end up wasting time that could have been better spent on something else. 
+3.	Careful:
 ---
 1. WHY: I want to work on tools that help protect people's privacy online.  I also want to work in tech/development because
 I want to learn a trade that will allow me to keep learning and advancing my skills continuously.
