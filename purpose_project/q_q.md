@@ -20,8 +20,7 @@ I am going to focus on the employee path.
 
 #### ELEVATOR PITCH:  
 Hi my name is Will.  I work on browsers to help protect people's online privacy and to help keep the web
- free, open, and accessible for everyone.  I'm (come through more with currently being skilled as a tech worker)learning web development to achieve this goal.  Have you thought about 
- your online privacy?
+ free, open, and accessible for everyone.  I'm (come through more with currently being skilled as a tech worker)learning web development to achieve this goal.  Have you thought about your online privacy?
  
  #### Full Brain Paragraph
- I am passionate about the outdoors.  In particular blah blah blah
+I am passionate about bicycles.  I eventually want to start building my own steel bike frames and forks as soon as I have a space that would make a decent workshop.  My fascination with bikes ties in with my motivation behind programming: I think the self-sufficiency and independence that bikes allow can be enabling for people.  My partner spent some time teaching English to children in Tanzania, and she has described for me how some of the kids would run three to five miles to school in the morning so that they could make it in time.  The power of a bicycle to enable a person in that situation is huge!  I view the autonomy of transportation provided by bicycles as an analog to the autonomy of expression and communication facilitated by the free and open internet.  As long as I have a bike, I can realistically travel most anywhere.  As long as we have access to an open internet, we can realistically learn from and communicate with anyone.
